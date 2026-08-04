@@ -3,6 +3,7 @@
 BS Computer Science Student
 
 ## Interests
+- Cloud Infrastructure
 - Linux Administration
 - Networking
 - Cybersecurity
@@ -13,3 +14,5 @@ BS Computer Science Student
 - Ubuntu
 - Git & GitHub
 - Network Security
+- Google Cloud Architect
+- Python
