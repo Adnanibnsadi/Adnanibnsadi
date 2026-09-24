@@ -2,7 +2,7 @@
 
 ### BS Computer Science Student | Cybersecurity • Networking • Cloud • Linux
 
-I am a Computer Science student at the **University of Agriculture Peshawar**, expected to graduate in **2027**.
+I am a Computer Science student at the **Institute of Computer Sciences and Information Technology (ICS/IT) University of Agriculture Peshawar**, expected to graduate in **2027**.
 
 My main interests are **cybersecurity, network security, wireless security, cloud infrastructure, and Linux systems**. I enjoy combining hands-on experimentation with Python, networking, cloud technologies, and machine learning to understand and solve security problems.
 
