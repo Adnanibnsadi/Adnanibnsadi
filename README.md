@@ -1,6 +1,6 @@
 # Hi, I'm Adnan
 
-I'm a final-year BS Computer Science student at the Institute of Computer Science and Information Technology, University of Agriculture, Peshawar, Pakistan.
+I'm a final-year BS Computer Science student at the Institute of Computer Sciences and Information Technology, University of Agriculture, Peshawar, Pakistan.
 
 My main interests are network security, Linux systems, Cloud security and intrusion detection. I enjoy understanding how network protocols work and experimenting with ways to detect unusual or potentially malicious behaviour.
 
